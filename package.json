@@ -5,7 +5,7 @@
   "author": "Rapid7 LLC <engineeringservices@rapid7.com>",
   "main": "bin/server.js",
   "dependencies": {
-    "sequelize": "3.5.x",
+    "sequelize": "4.17.2",
     "mysql": "2.8.x",
     "redis": "0.12.x",
     "hiredis": "0.x",
